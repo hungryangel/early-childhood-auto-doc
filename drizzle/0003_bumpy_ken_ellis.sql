@@ -1,0 +1,1 @@
+ALTER TABLE `childcare_logs` ADD `schedule` text;
